@@ -34,21 +34,11 @@ make
 ```
 `
 
-### Download Wallet and .conf via website: Windows, OSX, Linux
-###### <http://antilitecoin.pw>
-`
-
-### Mining and Explorer
-###### <http://tekyboy.tk>
-###### <http://www.tekyexplorer.xyz/altc/index.php>
 
 `
 ### Exchange
 ###### <http://yobit.net>
-###### <http://coinexchange.io>
 
-
-as received with thanks from [Cryptolife](http://cryptolife.net) and [Tekyboycrypto](http://tekyboycrypto.xyz).
 
 
 ----------

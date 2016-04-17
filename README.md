@@ -39,8 +39,9 @@ make
 ### Exchange
 ###### <http://yobit.net>
 
+----------
 
-[https://mega.nz/#!6wAnnTRR!bD9NPHKh9xD-ItEBzLsW68T7TQJw_GCmyjVoJi3smwM](Link URL)
+https://mega.nz/#!6wAnnTRR!bD9NPHKh9xD-ItEBzLsW68T7TQJw_GCmyjVoJi3smwM
 ----------
 
 

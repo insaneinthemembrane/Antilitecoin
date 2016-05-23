@@ -1,3 +1,7 @@
+#JUST MAKE ANTILITECOIN v.2 (see below).
+
+Seriously, you can not fix it, so make v2. Premine what was mined. Distribute whatever. Keep what you had mined and bought. Use the same specs so nothing really changes. Avoid address prefix of "7" as it could cause confusion. Do not use "ALTC" either, for the same reason. It makes sense. Plus, I want my 700k back (lol). Contact at Cryptopia if you need help.
+
 # antilitecoin
 
 antilitecoin is not antibitcoin, it is the anarchists coin. It is antilitecoin as well

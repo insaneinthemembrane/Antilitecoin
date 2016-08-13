@@ -33,6 +33,8 @@ https://mega.nz/#!6wAnnTRR!bD9NPHKh9xD-ItEBzLsW68T7TQJw_GCmyjVoJi3smwM
 ----------
 
 
+![tekydev.jpg](https://bitbucket.org/repo/kB584r/images/307626994-tekydev.jpg)
+
 
 
 

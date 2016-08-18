@@ -4,28 +4,9 @@
 ### Tech
 It works, and has a 500 coin reward, then 250 and finally 50 for about 830,000 blocks. Then it halves and will be worth half of bitcoin. Do the maths:
 
-#### Developer: DevTeky - tekyboy.tk
+#### Developer: DevTeky - tekyboy.tech
 
 
-#### Compile from git
-
-
-```sh
-/src for a daemon: 
-make -f makefile.unix USE_UPNP=-
-```
-
-```sh
-/antilitecoin for a wallet:
-qmake -qt=qt4 USE_UPNP=-
-make
-```
-`
-
-
-`
-### Exchange
-###### <http://yobit.net>
 
 ----------
 

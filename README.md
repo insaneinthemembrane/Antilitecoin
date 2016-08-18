@@ -4,10 +4,10 @@
 ### Tech
 It works, and has a 500 coin reward, then 250 and finally 50 for about 830,000 blocks. Then it halves and will be worth half of bitcoin. Do the maths:
 
-#### Developer: DevTeky - tekyboy.tech
+#### Developer: DevTeky - [tekyboycrypto](http://tekyboy.tech)
 
 
-
+#### QT: Windows - [download](https://mega.nz/#!6wAnnTRR!bD9NPHKh9xD-ItEBzLsW68T7TQJw_GCmyjVoJi3smwM)
 ----------
 
 https://mega.nz/#!6wAnnTRR!bD9NPHKh9xD-ItEBzLsW68T7TQJw_GCmyjVoJi3smwM

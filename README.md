@@ -1,9 +1,6 @@
 ### Version
 1.0.0.1
 
-### Tech
-It works, and has a 500 coin reward, then 250 and finally 50 for about 830,000 blocks. Then it halves and will be worth half of bitcoin. Do the maths:
-
 
 
 
@@ -13,8 +10,6 @@ It works, and has a 500 coin reward, then 250 and finally 50 for about 830,000 b
 
 
 
-
-![tekydev.jpg](https://bitbucket.org/repo/kB584r/images/307626994-tekydev.jpg)
 
 
 
